@@ -6,11 +6,11 @@ The United States Geological Survey (USGS) is responsible for providing scientif
 Using this dataset, I mapped the tectonic plaques and earthquakes in most parts of the world. 
 
 <p align="center">
-  <img src="images/earth">
+  <img src="images/earth.PNG">
 </p>
 
 Also, using JavaScript I was able to create some filter for different time periods ad also for different magnitudes 
 
 <p align="center">
-  <img src="images/filter">
+  <img src="images/filter.PNG">
 </p>
