@@ -15,7 +15,7 @@ To create the map I used Leaflet and ploted all of the earthquakes from ther dat
 Different number of base maps were added to choose from as well as separate out our two different data sets into overlays that can be turned on and off independently.
 
 
-Also, using JavaScript I was able to create some filter for different time periods ad also for different magnitudes 
+Also, using JavaScript I was able to create some filter for different time periods and also for different magnitudes.
 
 <p align="center">
   <img src="images/filters.PNG">
