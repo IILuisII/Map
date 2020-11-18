@@ -12,5 +12,5 @@ Using this dataset, I mapped the tectonic plaques and earthquakes in most parts 
 Also, using JavaScript I was able to create some filter for different time periods ad also for different magnitudes 
 
 <p align="center">
-  <img src="images/filter.PNG">
+  <img src="images/filters.PNG">
 </p>
